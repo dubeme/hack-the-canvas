@@ -29,10 +29,14 @@ function drawPolygon(x,y,numberOfSides) {
     
 }
 
-function drawImage(x,y,url) {
-    
-}
-
 function drawText(x,y,text) {
 
+}
+
+function drawImage(url,x,y,scaleW,scaleH) {
+    var img = new Image();
+    img.onload = function () {
+        cnv2DContext.drawImage(this,x,y,scaleW,scaleH);
+    }
+    img.src = url;
 }
