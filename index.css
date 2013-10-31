@@ -1,0 +1,15 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+body {
+    width:640px;
+    margin: 64px auto;
+}
+canvas {
+    border: 2px solid red;
+    width:640px;
+    height:640px;
+    margin: auto;
+}

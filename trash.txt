@@ -1,0 +1,8 @@
+/*
+http://blog.sachleen.com/posts/1355522930/scaling-images-with-html5-canvas/
+http://forrst.com/posts/HTML5_Canvas_drawImage_Issue-Fmv
+http://www.html5canvastutorials.com/tutorials/html5-canvas-image-size/
+http://stackoverflow.com/questions/15192343/drawimage-and-resize-to-canvas
+http://stackoverflow.com/questions/10841532/canvas-drawimage-scaling
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
+*/
